@@ -10,18 +10,19 @@ A continuación una descripción de nuestro trabajo realizado para la Datathon N
 
 **Fundamentación del Proyecto:**
 
-Hemos identificado una gran oportunidad en aprovechar las diversas bases de datos que manejan las entidades gubernamentales y estatales de Medellín, así como en otras ciudades de Colombia. Tomar decisiones sobre un tema de manera aislada puede generar sesgos y limitar la efectividad de las políticas públicas. Por esta razón, decidimos integrar toda la información disponible, con el fin de generar nuevos indicadores y estadísticas que permitan tomar decisiones más informadas y sin sesgos. 
+Hemos identificado una gran oportunidad en aprovechar las diversas bases de datos que manejan las entidades gubernamentales y estatales de Medellín, así como en otras ciudades de Colombia. Tomar decisiones de manera aislada sobre un tema puede generar sesgos y limitar la efectividad de las políticas públicas. Por esta razón, decidimos integrar toda la información disponible con el fin de generar nuevos indicadores y estadísticas que permitan tomar decisiones más informadas y libres de sesgos.
 
 Este enfoque nos permitirá mejorar la formulación de políticas públicas orientadas al desarrollo y fomento del turismo en la ciudad, mediante la colaboración entre distintas entidades. Además, facilitará la identificación de problemas y la detección de oportunidades para un turismo sostenible en Medellín.
 
-Nuestro análisis incluye la evaluación de la pobreza por sectores, el perfil del turista, problemas de seguridad en Medellín, los atractivos turísticos de Medellín y la relación entre las importaciones y exportaciones en el contexto del turismo. 
+Nuestro análisis incluyó la evaluación de la pobreza por sectores, el perfil del turista, los problemas de seguridad en Medellín, los atractivos turísticos de la ciudad y la relación entre las importaciones y exportaciones en el contexto del turismo.
 
 Con este enfoque integrado, buscamos optimizar la toma de decisiones para impulsar un desarrollo turístico inclusivo y sostenible en la ciudad.
 
-Dado los avances realizados, queda para trabajo futuro realizar más investigaciones interesantes que podrían estar relacionadas con el futuro sostenible, nos queda una inquietud, la calidad de las exportaciones están relacionadas con el turismo? Si se invierte en emprendimientos locales para exportar se puede atraer turismo a la ciudad? Todo este tipo de preguntas relacionadas con las exportaciones. 
+Dado los avances realizados, el trabajo futuro estará enfocado en realizar investigaciones adicionales relacionadas con el futuro sostenible. Una de las inquietudes que surge es si la calidad de las exportaciones está relacionada con el turismo. ¿Puede la inversión en emprendimientos locales para la exportación atraer más turistas a la ciudad? Este tipo de preguntas relacionadas con las exportaciones seguirán siendo objeto de análisis.
 
-En cuánto a la seguridad se trabajó con una data Nacional enfocándonos en los delitos de amenaza, delitos secxuales y homicidio, a patrtir de ellos lo que se hizo fue generar unos filtros para acotar nuestro marco de estudio al area metropolitana del valle de aburrá, esto con el fin de lograr identificar el comportamiento de cada uno de los municipios con relacion a la cantidad de delitos cometidos, se propone a futuro trabajar con la data con el proísito de generar modelos predictivos para aplicar políticas públicas que logren regular la seugirdad en margen a los meses con mayor actos delictivos y su relación con la cantidad de visitas de turistas, esto ayuda a incrementar la seguridad del visitante y a mejorar la percepción de la ciudad. Se identificó que en Julio y Noviembre-Diciembre se incrementan las visitas a la ciudad, esto puede ser debido a la feria de flores y las festividadeds navideñas.
+En cuanto a la seguridad, trabajamos con una base de datos nacional, enfocándonos en delitos de amenaza, delitos sexuales y homicidios. A partir de esta información, generamos filtros para limitar nuestro estudio al área metropolitana del Valle de Aburrá, con el objetivo de identificar el comportamiento de cada municipio en relación con la cantidad de delitos cometidos. Se propone, a futuro, trabajar con estos datos para generar modelos predictivos que permitan aplicar políticas públicas que regulen la seguridad, especialmente en los meses con mayor actividad delictiva, y su relación con la cantidad de turistas visitantes. Esto contribuiría a mejorar la seguridad del visitante y la percepción de la ciudad.
 
+Se identificó que en los meses de julio y noviembre-diciembre se incrementan las visitas a la ciudad, lo cual podría estar relacionado con la Feria de las Flores y las festividades navideñas.
 
 **Organización Carpetas:**
 
