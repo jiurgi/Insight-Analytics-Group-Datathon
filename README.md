@@ -1,7 +1,7 @@
 # Insight-Analytics-Group-Datathon
 -Jimena Uribe Giraldo
 -Jair Trujillo Rincon
--Alejandro Vergara
+-Diego Alejandro Vergara Ruíz
 -Daniela Ríos Perez
 -Jefferson Andrés Espejo Gómez
 
