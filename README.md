@@ -18,6 +18,10 @@ Nuestro análisis incluye la evaluación de la pobreza por sectores, el perfil d
 
 Con este enfoque integrado, buscamos optimizar la toma de decisiones para impulsar un desarrollo turístico inclusivo y sostenible en la ciudad.
 
+Dado los avances realizados, queda para trabajo futuro realizar más investigaciones interesantes que podrían estar relacionadas con el futuro sostenible, nos queda una inquietud, la calidad de las exportaciones están relacionadas con el turismo? Si se invierte en emprendimientos locales para exportar se puede atraer turismo a la ciudad? Todo este tipo de preguntas relacionadas con las exportaciones. 
+
+En cuánto a la seguridad se trabajó con una data Nacional enfocándonos en los delitos de amenaza, delitos secxuales y homicidio, a patrtir de ellos lo que se hizo fue generar unos filtros para acotar nuestro marco de estudio al area metropolitana del valle de aburrá, esto con el fin de lograr identificar el comportamiento de cada uno de los municipios con relacion a la cantidad de delitos cometidos, se propone a futuro trabajar con la data con el proísito de generar modelos predictivos para aplicar políticas públicas que logren regular la seugirdad en margen a los meses con mayor actos delictivos y su relación con la cantidad de visitas de turistas, esto ayuda a incrementar la seguridad del visitante y a mejorar la percepción de la ciudad. Se identificó que en Julio y Noviembre-Diciembre se incrementan las visitas a la ciudad, esto puede ser debido a la feria de flores y las festividadeds navideñas.
+
 
 **Organización Carpetas:**
 
