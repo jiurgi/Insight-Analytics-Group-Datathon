@@ -14,7 +14,7 @@ Hemos identificado una gran oportunidad en aprovechar las diversas bases de dato
 
 Este enfoque nos permitirá mejorar la formulación de políticas públicas orientadas al desarrollo y fomento del turismo en la ciudad, mediante la colaboración entre distintas entidades. Además, facilitará la identificación de problemas y la detección de oportunidades para un turismo sostenible en Medellín.
 
-Nuestro análisis incluye la evaluación de la pobreza por sectores, el perfil del turista, los atractivos turísticos de Medellín y la relación entre las importaciones y exportaciones en el contexto del turismo. 
+Nuestro análisis incluye la evaluación de la pobreza por sectores, el perfil del turista, problemas de seguridad en Medellín, los atractivos turísticos de Medellín y la relación entre las importaciones y exportaciones en el contexto del turismo. 
 
 Con este enfoque integrado, buscamos optimizar la toma de decisiones para impulsar un desarrollo turístico inclusivo y sostenible en la ciudad.
 
