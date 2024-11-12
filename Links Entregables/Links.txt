@@ -1,8 +1,5 @@
 página: https://andiespejo.github.io/Datathon_insight_analytics/
 
-
-
-video: https://tecnologicodeantioquia-my.sharepoint.com/:v:/g/personal/jair_trujillo_correo_tdea_edu_co/EZyyxNmdH91KhXZq_RLXeyIBy8ONQtwO2aLSrgo1zqhYFg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zPkqRn
-
+video: https://tinyurl.com/DatathonUN
 
 github: https://github.com/jiurgi/Insight-Analytics-Group-Datathon
